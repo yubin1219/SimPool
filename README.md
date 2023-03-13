@@ -2,10 +2,18 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74402562/224751955-567588cb-1760-4217-9b1f-66eaf0a3282d.png" width="90%" height="90%">
 </div>
-<p align="center">
 
+<p align="center">
+Figure 1. Overall framework of SimPool methodology
 </p>
 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74402562/224756392-f1a3db5d-40a5-4755-9a66-2380c905bc37.png" width="65%" height="65%">
+  <img src="https://user-images.githubusercontent.com/74402562/224756208-1b616692-02d1-48e2-b833-9398124446ca.png" width="25%" height="25%">
+</div>
+<p align="center">
+Figure 2. Overview of SimPoolFormer and Pooling-based Embedding-Free Attention(PEFA) module
 
 This repository contains the official Pytorch implementation of training & evaluation code and the pretrained models for SimPool methodology and SimPoolFormer.
 
