@@ -60,7 +60,7 @@ tools/dist_test.sh local_configs/simpoolformer/B0/simpoolformer.b0.512x512.ade.1
 
 ## Training
 
-`ImageNet-1K weights` were submitted with a zip file.
+Download `ImageNet-1K pretrained weights` [[Pretrained](https://drive.google.com/drive/folders/1Y1JvQqi08NNS6zmAUmBuZnLP_aiWh5Qz?usp=sharing)]
 
 Put them in a folder ```pretrained/```.
 
