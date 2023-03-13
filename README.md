@@ -43,7 +43,7 @@ cd SegFormer && pip install -e . --user
 
 ## Evaluation
 
-`trained weights` were submitted with a zip file. 
+Download `trained weights` [[weights](https://drive.google.com/drive/folders/1Y1JvQqi08NNS6zmAUmBuZnLP_aiWh5Qz?usp=sharing)]
   
 ```local_configs/``` contains config files. In config files, increase the ```sr_ratios``` of our backbone and ```additive_pooling_ratio``` of our decoder to reduce the computation costs. 
 
