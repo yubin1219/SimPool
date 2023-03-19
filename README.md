@@ -31,7 +31,7 @@ For install and data preparation, please refer to the guidelines in [MMSegmentat
 Other requirements:
 ```pip install timm==0.3.2```
 
-An example (works for me): ```CUDA 10.1``` and  ```pytorch 1.7.1``` 
+An example (works for me): ```CUDA 11.1``` and  ```pytorch 1.8.0``` 
 
 ```
 pip install torchvision==0.8.2
