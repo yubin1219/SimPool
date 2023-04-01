@@ -1,3 +1,6 @@
+[![NVIDIA Source Code License](https://img.shields.io/badge/license-NSCL-blue.svg)](https://github.com/yubin1219/SimPool/blob/main/LICENSE)
+![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
+
 # SimPool: Simple Pooling at the Inference for Efficient Semantic Segmentation
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74402562/224751955-567588cb-1760-4217-9b1f-66eaf0a3282d.png" width="90%" height="90%">
